@@ -1,3 +1,59 @@
+
+.AOB{
+    position: absolute;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 350px;
+    border-radius: 10px;
+    right: 220px;
+    top: 470px ;
+    -ms-transform: rotate(20deg); /* IE 9 */
+    -webkit-transform: rotate(20deg); /* Safari 3-8 */
+    transform: rotate(80deg);
+}
+
+.CONTACTS{
+    position: absolute;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 350px;
+    border-radius: 10px;
+    right: 200px;
+    top: 145px ;
+    -ms-transform: rotate(20deg); /* IE 9 */
+    -webkit-transform: rotate(20deg); /* Safari 3-8 */
+    transform: rotate(-10deg);
+}
+
+.APPS{
+    position: absolute;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 350px;
+    border-radius: 10px;
+    left: 680px;
+    top: 480px ;
+    -ms-transform: rotate(20deg); /* IE 9 */
+    -webkit-transform: rotate(20deg); /* Safari 3-8 */
+    transform: rotate(-10deg);
+}
+
+.SKILLS{
+    position: absolute;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 350px;
+    border-radius: 10px;
+    left: 700px;
+    top: 150px ;
+    -ms-transform: rotate(20deg); /* IE 9 */
+    -webkit-transform: rotate(20deg); /* Safari 3-8 */
+    transform: rotate(80deg);
+}
 .bk{
     position: absolute;
     height: 100%;
@@ -15,17 +71,17 @@
     top: 150px ;
 }
 h1{
-    color: rgb(0, 0, 0);
+    color: rgb(251, 255, 0);
     position: absolute;
-    right: 0px;
-    top: 10px ;
-    font-size: 50px ;
+    right: 35%;
+    top: 0px ;
+    font-size: 80px ;
 }
 h2{
     color: rgb(21, 255, 0);
     position: absolute;
-    right: 0px;
-    top: 50px ;
+    right: 35%;
+    top: 60px ;
     font-size: 40px ;
 }
 h3{
