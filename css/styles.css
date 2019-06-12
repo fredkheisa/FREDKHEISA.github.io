@@ -1,0 +1,50 @@
+
+.me{
+    position: absolute;
+    width: 250px;
+    border-radius: 30px;
+    left: 280px;
+    top: 150px ;
+}
+h1{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    left: 280px;
+    top: 50px ;
+    font-size: 40px ;
+}
+h2{
+    color: rgb(238, 255, 0);
+    position: absolute;
+    left: 280px;
+    top: 50px ;
+    font-size: 40px ;
+}
+h3{
+    color: white;
+    position: absolute;
+    font-size: 40px;
+    left: 600px;
+    top: 280px 
+}
+h4{
+    color: white;
+    position: absolute;
+    font-size: 30px;
+    left: 700px;
+    top: 340px 
+}
+h5{
+    color: white;
+    position: absolute;
+    font-size: 30px;
+    left: 600px;
+    top: 400px;
+}
+
+body{
+    background-image: url("../images/texture-background-black-glow-hd-pictures-texture-background-for.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
