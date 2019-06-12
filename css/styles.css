@@ -1,3 +1,11 @@
+.bk{
+    position: absolute;
+    height: 100%;
+    width: 50%;
+    right: 0px;
+    top: 0px;
+    opacity: 0.6;
+}
 
 .me{
     position: absolute;
@@ -7,16 +15,16 @@
     top: 150px ;
 }
 h1{
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     position: absolute;
-    left: 280px;
-    top: 50px ;
-    font-size: 40px ;
+    right: 0px;
+    top: 10px ;
+    font-size: 50px ;
 }
 h2{
-    color: rgb(238, 255, 0);
+    color: rgb(21, 255, 0);
     position: absolute;
-    left: 280px;
+    right: 0px;
     top: 50px ;
     font-size: 40px ;
 }
@@ -43,7 +51,7 @@ h5{
 }
 
 body{
-    background-image: url("../images/texture-background-black-glow-hd-pictures-texture-background-for.jpg");
+    background-image: url("../images/heartburn_background.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
