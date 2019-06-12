@@ -34,8 +34,8 @@
     padding: 5px;
     width: 350px;
     border-radius: 10px;
-    left: 680px;
-    top: 480px ;
+    left: 690px;
+    top: 500px ;
     -ms-transform: rotate(20deg); /* IE 9 */
     -webkit-transform: rotate(20deg); /* Safari 3-8 */
     transform: rotate(-10deg);
@@ -92,7 +92,7 @@ h2{
     font-size: 40px ;
 }
 h3{
-    color: white;
+    color: rgb(251, 255, 14);
     position: absolute;
     font-size: 40px;
     left: 400px;
