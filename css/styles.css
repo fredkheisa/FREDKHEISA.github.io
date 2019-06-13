@@ -12,7 +12,6 @@
     -webkit-transform: rotate(20deg); /* Safari 3-8 */
     transform: rotate(80deg);
 }
-
 .CONTACTS{
     position: absolute;
     border: 1px solid #ddd;
@@ -119,10 +118,17 @@ h6{
     top: -90px ;
     font-size: 40px ;
 }
-
+.apps{
+    position: relative;
+    top: 800px;   
+}
+.appsbk{
+    width: 100%;
+}
 body{
     background-image: url("../images/bk.jpg");
-    background-attachment: fixed;
+    /* background-attachment: fixed; */
     background-repeat: no-repeat;
     background-size: cover;
 }
+
